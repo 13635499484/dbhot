@@ -1,3 +1,2 @@
-print("hello world!")
-print("欧美")
-print("约饭")
+def print_main():
+    print("主页")
