@@ -11,6 +11,7 @@ def main():
     pic()
     cart()
     games()
+    study()
 
 if __name__ == "__main__":
     main()
